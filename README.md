@@ -3,6 +3,8 @@ We have 10 Software Engineers in the company and although they can usually build
 
 We have discussed a set of functional requirements (how the program shall work) and built a mini-specification below. We have asked these Software Engineers to build the tool for themselves, but they repeatedly forgot it, since they done have a system to record this todo item! To break this vicious cycle we ask you to build the tool - you are the last hope to save the productivity of this company!
 
+A minor readme change
+
 ### Code Quality Requirements
 
 We plan to hand over the tool to developers once they are able to use. They tend to be very picky about code quality, so there are several things we need to make sure are done on the project:
